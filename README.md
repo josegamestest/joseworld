@@ -38,6 +38,6 @@
 </p>
 
 <a href="https://github.com/josegamestest/minetest5.4.0_comp_jose" target="_blank">
-    <img src="https://github.com/josegamestest/joseworld/blob/main/baixar.png" alt="Baixar cliente" style="border: double;" height="80" width="170"/>
- </img></a>
+    <img src="https://github.com/josegamestest/joseworld/blob/main/baixar.png" alt="Baixar cliente" style="border: double;" height="80" width="170"/> </img>
+</a>
 
