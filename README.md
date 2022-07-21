@@ -60,4 +60,4 @@ A Brica e muito sozinha, por isso ela gosta muito de animais pra fazer companhia
 
 
 <h3>Evento Villager </h3>
-O villager agora agricultura, e ele esta disposto trocar suas flores por sementes, e comum plantar e sobra muita semente, então o villager pega elas em troca de oferece um recurso para customizar suas roupas.
+O villager adora agricultura, e ele esta disposto trocar suas flores por sementes, e comum plantar e sobra muita semente, então o villager pega elas em troca de oferece um recurso para customizar suas roupas.
